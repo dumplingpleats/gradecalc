@@ -31,3 +31,15 @@ button {
 h2 {
   text-align: center;
 }
+
+.removeCourse {
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.removeCourse:hover {
+  background-color: darkred;
+}
